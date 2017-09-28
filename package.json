@@ -56,7 +56,7 @@
     "url": "https://github.com/navcoindev/bitcore-p2p.git"
   },
   "dependencies": {
-    "bitcore-lib": "git://github.com/navcoindev/bitcore-lib",
+    "bitcore-lib": "git://github.com/navcoin/bitcore-lib.git#388fe19666198337e5add22c8eec3b5cb2e82afd",
     "bloom-filter": "^0.2.0",
     "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
     "socks5-client": "^0.3.6"
