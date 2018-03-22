@@ -1,7 +1,7 @@
 {
   "name": "bitcore-p2p",
   "version": "1.1.2",
-  "description": "Interface to the bitcoin P2P network for bitcore",
+  "description": "Interface to the folmcoin P2P network for bitcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -56,7 +56,7 @@
     "url": "https://github.com/navcoin/bitcore-p2p.git"
   },
   "dependencies": {
-    "bitcore-lib": "git://github.com/navcoin/bitcore-lib.git",
+    "bitcore-lib": "git://github.com/folm/bitcore-lib.git",
     "bloom-filter": "^0.2.0",
     "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
     "socks5-client": "^0.3.6"
